@@ -38,6 +38,11 @@ pr_body.txt
 
 # AI tool local state (like .claude/ — never commit)
 .codex/
+.valo/
+
+# Local scratch and temporary workspaces
+.scratch/
+.tmp/
 
 # Playwright browser binaries (installed locally, not committed)
 .playwright/
